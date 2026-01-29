@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Reading Like a Computer - Amna's Page"
+title: "RLAC"
 email: "aa11947@nyu.edu"
 description: #hi
 twitter_username: username
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Amna Al Mheiri"
   avatar : "/assets/images/Kitty.jpg"
-  bio    : "Welcome to my page!"
+  bio    : "Hi! Welcome to my page! :D"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
