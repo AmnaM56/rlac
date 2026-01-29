@@ -1,0 +1,16 @@
+---
+---
+/* Very light baby-pink background */
+body {
+  background-color: #fff0f6;
+}
+
+/* Keep main content areas white for contrast */
+.page, .site-main, .site-content, .container, .page__inner {
+  background-color: #ffffff;
+}
+
+/* Optional: adjust header/footer if needed */
+.site-header, .site-footer {
+  background-color: transparent;
+}
