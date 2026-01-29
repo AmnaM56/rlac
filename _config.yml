@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Amna Al Mheiri"
-  avatar : "<iframe src=\"https://assets.pinterest.com/ext/embed.html?id=29625310045860266\" height=\"445\" width=\"345\" frameborder=\"0\" scrolling=\"no\" ></iframe>"
+  avatar : "/assets/images/Kitty.jpg"
   bio    : "Welcome to my page!"
   links:
     - label: "Website"
