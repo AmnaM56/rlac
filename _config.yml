@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Amna Al Mheiri"
   avatar : "/assets/images/Kitty.jpg"
-  bio    : "Hi! Welcome to my page! :D"
+  bio    : "Hi! Welcome to my page!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
