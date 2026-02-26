@@ -1,9 +1,7 @@
-# _data/navigation.yml
 main:
   - title: "Assignments"
-    url:/_posts/
+    url: /assignments/
   - title: "Responses"
-    url: /_pages/_responses/
+    url: /responses/
   - title: "About"
-    url: /pages/_about/
-  
+    url: /about/
