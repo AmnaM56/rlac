@@ -1,12 +1,11 @@
 # _data/navigation.yml
 main:
   - title: "Assignments"
-    url: "{{ '/assignments/' | /Users/amna/Documents/GitHub/rlac/_posts }}"
+    url: "{{/Users/amna/Documents/GitHub/rlac/_posts}}"
   - title: "Responses"
-    url: "{{ '/responses/' | /Users/amna/Documents/GitHub/rlac/_pages/_responses }}"
+    url: "{{/Users/amna/Documents/GitHub/rlac/_pages/_responses}}"
   - title: "About"
-    url: "{{ '/about/' /Users/amna/Documents/GitHub/rlac/_pages/_about.md }}"
-
+    url: "{{/Users/amna/Documents/GitHub/rlac/_pages/_about.md}}"
 
 #main:
  #3 - title: "Assignments"
