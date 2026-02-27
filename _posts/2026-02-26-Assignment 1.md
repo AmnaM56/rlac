@@ -5,7 +5,7 @@ categories: assignments
 ---
 Violence in Harry Potter — By Amna and Mhara
 
-## 1. Introduction: Violence in Harry Potter
+## 1. Introduction
 
 The Harry Potter series, by J.K Rowling, is built around
 violence; duels, wars, curses and death shape both the original novels as well as the vast landscape of over a million fanfictions they inspired. While fanfiction draws from Rowling’s style, authors often reimagine tone and emotional intensity. This project asks: How does the use of explicit violent language differ between Rowling’s novels and Harry Potter fanfiction, and what does this suggest about how each text portrays conflict?
