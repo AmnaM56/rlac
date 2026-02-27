@@ -1,13 +1,12 @@
 
 ---
 title: "Assignments"
-permalink: /_posts/
+permalink: /assignments/
 layout: archive
 author_profile: true
 ---
 
-
-{% assign posts = site.categories.assignments %}
+{% assign posts = site.categories.Assignments %}
 {% for post in posts %}
   {% include archive-single.html %}
 {% endfor %}
