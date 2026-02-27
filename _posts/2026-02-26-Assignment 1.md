@@ -48,7 +48,7 @@ However, fanfiction texts display higher relative frequencies of bodily harm ter
 
 <img src="{{ '/assets/images/RLAC A1 F4.png' | relative_url }}">
 
-*Figure 3. Comparative word clouds of violence-term frequencies across corpora (per 10,000 words). The word clouds in Figure 3 and Figure 4 further illustrate differences in emphasis.* 
+*Figure 3. Comparative word clouds of violence-term frequencies across corpora (per 10,000 words).* 
 
 In both Rowling novels, “Voldemort” and “death” dominate the visual field, reinforcing the centrality of war and existential stakes. The clustering suggests a narrative structured around a singular antagonist and ultimate confrontation. In contrast, the fanfiction word clouds distribute violent terms more widely across actions such as “hurt,” “attack,” “fight,” and “weapon.” This broader range implies a more continuous presence of action rather than violence reserved only for climactic events, making combat feel like part of the ongoing narrative texture.
 
