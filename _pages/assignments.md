@@ -1,14 +1,10 @@
 
 ---
 title: "Assignments"
-layout: archive
+layout: category
 permalink: /assignments/
+taxonomy: assignments
+entries_layout: list
 author_profile: true
-
-
 ---
 
-{% assign posts = site.categories.assignments %}
-{% for post in posts %}
-  {% include archive-single.html %}
-{% endfor %}

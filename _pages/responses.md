@@ -1,7 +1,7 @@
 ---
-title: "Responses"
-layout: category
 permalink: /responses/
-taxonomy: Responses
+title: "Responses"
+layout: single
+author_profile: true
 ---
 
