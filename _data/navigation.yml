@@ -1,6 +1,6 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "Assignments"
+    url: /assignments/
   - title: "Responses"
     url: /responses/
   - title: "About"
