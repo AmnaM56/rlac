@@ -25,7 +25,7 @@ depictions of war, allowing meaningful comparison with darker fanfiction narrati
 ## 3. Methodology: Building a Violence Dictionary in R
 
 
-<img src="{{ '/assets/images/RLAC A1 F1.png' }}">
+<img src="{{ '/assets/images/RLAC A1 F1.png' | relative_url }}">
 
 *Figure 1. Violence dictionary for analysis in R (124) terms*
 
@@ -36,7 +36,7 @@ in Figure 1. This violence dictionary included terms such as “attack”, “ki
 
 ## 4. Findings from R: Heatmap Analysis 
 
-<img src="{{ '/assets/images/RLAC A1 F2.png' }}">
+<img src="{{ '/assets/images/RLAC A1 F2.png' | relative_url }}">
 
 *Figure 2. Heatmap of 15 terms from violence dictionary across the 2 Rowling and 3 Fanfiction Texts (per 10,000 words)*
 
@@ -46,11 +46,11 @@ However, fanfiction texts display higher relative frequencies of bodily harm ter
 
 ## 5. Findings from R: Word Clouds 
 
-<img src="{{ '/assets/images/RLAC A1 F3.png' }}">
+<img src="{{ '/assets/images/RLAC A1 F3.png' | relative_url }}">
 
 *Figure 3. Word clouds of normalized violence-term frequencies (per 10,000 words).*
 
-<img src="{{ '/assets/images/RLAC A1 F4.png' }}">
+<img src="{{ '/assets/images/RLAC A1 F4.png' | relative_url }}">
 
 *Figure 4. Comparative word clouds of violence-term frequencies across corpora (per 10,000 words). The word clouds in Figure 3 and Figure 4 further illustrate differences in emphasis.* 
 
