@@ -1,9 +1,7 @@
 ---
-title: "Assignment 1"
-
-categories:
-  - Assignments
-  
+title: "Assignment 1 Title"
+date: 2026-02-26
+categories: assignments   
 ---
 
 ## 1. Introduction: Violence in Harry Potter
