@@ -62,21 +62,10 @@ plugins:
 
 author:
   name   : "Amna Al Mheiri"
-  avatar : "/assets/images/Kitty.jpg"
-  bio    : "Hi! Welcome to my page!"
+  avatar : "/assets/images/computer gif.gif"
+  bio    : "Hi! Welcome to my page :)"
  
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
