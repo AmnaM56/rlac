@@ -4,4 +4,4 @@ date: 2026-02-26
 categories: responses   
 ---
 
-To be continued...
+Response 1 will be published here. 
