@@ -1,7 +1,7 @@
 main:
   - title: "Assignments"
-    url: /assignments/
+    url: /assignments.md/
   - title: "Responses"
-    url: /responses/
+    url: /responses.md/
   - title: "About"
-    url: /about/
+    url: /about.md/
