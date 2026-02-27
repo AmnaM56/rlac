@@ -1,7 +1,7 @@
 main:
-  - title: "Assignments"
-    url: /assignments.md/
   - title: "Responses"
-    url: /responses.md/
+    url: _pages/responses.md
+  - title: "Assignments"
+    url: _posts
   - title: "About"
-    url: /about.md/
+    url: /Users/amna/Documents/GitHub/rlac/_pages/about.md/
