@@ -16,6 +16,10 @@
 title: "RLAC - Home"
 email: "aa11947@nyu.edu"
 description: #hi
+
+url: "https://amnam56.github.io"
+baseurl: "/rlac"
+
 twitter_username: username
 github_username: "AmnaM56"
 minimal_mistakes_skin: default
