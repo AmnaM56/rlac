@@ -29,10 +29,16 @@ depictions of war, allowing meaningful comparison with darker fanfiction narrati
 
 ## 3. Methodology: Building a Violence Dictionary in R
 
-<img src="{{ '/assets/images/RLAC A1 F1.png' | relative_url }}" 
 
- <figcaption><em>Color-coded word cloud showing term frequency</em></figcaption>
-</figure>
+<br>
+<div style="text-align: center;">
+  <img src="https://AmnaM56.github.io/rlac/assets/images/RLAC A1 F1.png" 
+       alt="Figure 1. Violence dictionary for analysis in R (124 terms)">
+  <br>
+  <em>Figure 1. Authority vs Agency Words (Total Counts)</em>
+</div>
+<br>
+
 
 To systematically measure violent action language, we constructed a custom ‘violence dictionary’ in R, shown
 in Figure 1. This violence dictionary included terms such as “attack”, “kill”, “curse”, “blood”, “wound”, “fight”, and magical combat terms like “Avada”, “Crucio”, and “sectumsempra”. The dictionary contains 124 terms, including grammatical variations (e.g., “attack”, “attacked”, “attacking”), allowing us to systematically capture violence-related language across texts.We normalized results by measuring mean frequency per 10,000 words on R to ensure proportional comparison across texts of different lengths.
@@ -59,9 +65,13 @@ In both Rowling novels, “Voldemort” and “death” dominate the visual fiel
 Voyant allowed us to visualize how violent words behave across the entire corpus and how they appear in actual sentences. Instead of focusing on normalized counts like in R, Voyant showed how violent language rises and falls throughout each text and how it is used in context.
 
 
-INSERT IFRAME: <iframe style='width: 1470px; height: 775px;' src='https://voyant-tools.org/tool/Trends/?view=Trends&query=hate&query=kill&query=killing&query=blood&query=scream&query=shout&query=hurt&query=hurting&query=wound&query=shouted&query=shouting&query=curse&query=killed&query=attack&query=attacked&query=fought&query=cursed&query=fight&chartType=line&corpus=35f7c6a1aba63b64ab58e37088c3034d'></iframe>
-
-Figure 5. Voyant Tools Trends graph showing the frequency of selected violent words across the full timeline of each text. Fanfiction maintains consistently higher levels of violent vocabulary, while Rowling’s novels show sharp spikes during major conflict scenes.
+<iframe style='width: 1470px; height: 775px;' 
+src='https://voyant-tools.org/tool/Trends/?view=Trends&query=hate&query=kill&query=killing&query=blood&query=scream&query=shout&query=hurt&query=hurting&query=wound&query=shouted&query=shouting&query=curse&query=killed&query=attack&query=attacked&query=fought&query=cursed&query=fight&chartType=line&corpus=35f7c6a1aba63b64ab58e37088c3034d'>
+</iframe>
+<br>
+  <em>Figure 5. Voyant Tools Trends graph showing the frequency of selected violent words across the full timeline of each text. Fanfiction maintains consistently higher levels of violent vocabulary, while Rowling’s novels show sharp spikes during major conflict scenes.</em>
+</div>
+<br>
 
 We entered violent words such as “kill,” “attack,” “blood,” “curse,” “hurt,” and “fight” into the tool. The graph immediately showed a clear separation between Rowling’s novels and the fanfiction texts. The fanfiction lines stayed consistently higher across the entire timeline, while the Rowling lines only rose during certain sections. For example, Goblet of Fire showed a noticeable increase in violent vocabulary during major conflict scenes, but outside those moments the frequency dropped sharply. In contrast, the fanfiction texts rarely dipped at all. This suggests that fanfiction treats violence as a steady part of the narrative, while Rowling uses it more selectively and ties it to specific emotional or plot‑driven events.
 
