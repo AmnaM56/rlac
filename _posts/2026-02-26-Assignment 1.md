@@ -64,22 +64,26 @@ Voyant allowed us to visualize how violent words behave across the entire corpus
 <iframe style='width: 735px; height: 387px;' 
 src='https://voyant-tools.org/tool/Trends/?view=Trends&query=hate&query=kill&query=killing&query=blood&query=scream&query=shout&query=hurt&query=hurting&query=wound&query=shouted&query=shouting&query=curse&query=killed&query=attack&query=attacked&query=fought&query=cursed&query=fight&chartType=line&corpus=35f7c6a1aba63b64ab58e37088c3034d'>
 </iframe>
-<br>
-  <em>Figure 5. Voyant Tools Trends graph showing the frequency of selected violent words across the full timeline of each text. Fanfiction maintains consistently higher levels of violent vocabulary, while Rowling’s novels show sharp spikes during major conflict scenes.</em>
-</div>
-<br>
+
+  *Figure 5. Voyant Tools Trends graph showing the frequency of selected violent words across the full timeline of each text. Fanfiction maintains consistently higher levels of violent vocabulary, while Rowling’s novels show sharp spikes during major conflict scenes.*
+
+
 
 We entered violent words such as “kill,” “attack,” “blood,” “curse,” “hurt,” and “fight” into the tool. The graph immediately showed a clear separation between Rowling’s novels and the fanfiction texts. The fanfiction lines stayed consistently higher across the entire timeline, while the Rowling lines only rose during certain sections. For example, Goblet of Fire showed a noticeable increase in violent vocabulary during major conflict scenes, but outside those moments the frequency dropped sharply. In contrast, the fanfiction texts rarely dipped at all. This suggests that fanfiction treats violence as a steady part of the narrative, while Rowling uses it more selectively and ties it to specific emotional or plot‑driven events.
 
 ## 7.Findings from Voyant Tools: Cirrus Word Cloud
 
-Figure 6. Voyant Cirrus word cloud showing the most frequent words across the corpus. Character names and dialogue verbs dominate, showing that violent vocabulary is not the most common language overall.
+<img src="{{ '/assets/images/RLAC A1 F6.png' | relative_url }}">
+
+*Figure 6. Voyant Cirrus word cloud showing the most frequent words across the corpus. Character names and dialogue verbs dominate, showing that violent vocabulary is not the most common language overall.*
 
 The Cirrus word cloud added another layer to this comparison. Even though our project focused on violence, the word cloud did not show violent words as the most frequent ones. Instead, it highlighted names like Harry, Draco, and Hermione, along with common verbs such as said and asked. This shows that violent language is not the dominant vocabulary in either Rowling or the fanfiction texts. It only becomes visible when we isolate it through targeted searches. This shows how basic visualizations can hide deeper patterns, because certain kinds of language only become visible when we use more focused or computational tools. If we relied only on the word cloud, we might assume violence was not a major theme at all, but the Trends graph revealed that violent language plays a much larger role once it is isolated and examined directly.
 
 ## 8.Findings from Voyant Tools: Contexts tool
 
-Figure 7. Voyant Contexts (concordance) view for the word kill. Rowling’s examples show hesitation or moral conflict, while fanfiction examples show more direct and assertive uses of violent language.
+<img src="{{ '/assets/images/RLAC A1 F7.png' | relative_url }}">
+
+*Figure 7. Voyant Contexts (concordance) view for the word kill. Rowling’s examples show hesitation or moral conflict, while fanfiction examples show more direct and assertive uses of violent language.*
 
 The Contexts tool helped us see how violent words function in actual sentences. When we searched for the word kill, the difference in tone between Rowling and the fanfiction texts became very clear. In Rowling’s novels, examples often showed hesitation, fear, or guilt. One line read something like “He didn’t want to kill anyone,” and another described a character insisting that killing was wrong. These examples show that Rowling frames violence as something serious and emotionally heavy. In the fanfiction texts, the tone was much more direct. 
 
