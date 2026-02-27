@@ -1,12 +1,7 @@
 ---
 title: "Responses"
+layout: category
 permalink: /responses/
-layout: archive
-author_profile: true
+taxonomy: Responses
 ---
 
-
-{% assign posts = site.categories.responses %}
-{% for post in posts %}
-  {% include archive-single.html %}
-{% endfor %}
