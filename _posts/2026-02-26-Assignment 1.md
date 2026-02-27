@@ -25,9 +25,9 @@ depictions of war, allowing meaningful comparison with darker fanfiction narrati
 ## 3. Methodology: Building a Violence Dictionary in R
 
 
-<img src="{{ '/assets/images/RLAC A1 F1.png' }}"
+<img src="{{ '/assets/images/RLAC A1 F1.png' }}">
 
-**Figure 1. Violence dictionary for analysis in R (124) terms**
+*Figure 1. Violence dictionary for analysis in R (124) terms*
 
 
 To systematically measure violent action language, we constructed a custom ‘violence dictionary’ in R, shown
@@ -36,17 +36,23 @@ in Figure 1. This violence dictionary included terms such as “attack”, “ki
 
 ## 4. Findings from R: Heatmap Analysis 
 
-Figure 2. Heatmap of 15 terms from violence dictionary across the 2 Rowling and 3 Fanfiction Texts (per 10,000 words)
+<img src="{{ '/assets/images/RLAC A1 F2.png' }}">
+
+*Figure 2. Heatmap of 15 terms from violence dictionary across the 2 Rowling and 3 Fanfiction Texts (per 10,000 words)*
+
 The heatmap in Figure 2 reveals striking differences in violent vocabulary distribution. In Deathly Hallows, the word “death” appears at a dramatically higher rate (15.4 occurrences per 10,000 words) compared to the fanfiction texts. Similarly, “kill” and "killed” occur more frequently in Rowling’s later novels than in most fanfiction works.
 
 However, fanfiction texts display higher relative frequencies of bodily harm terms such as “hurt”, “pain”, and “wound”. This suggests that while Rowling’s novels emphasize mortality and large-scale war, fanfiction often focuses on the physical and emotional experience of injury. In other words, Rowling’s violence tends to be narratively monumental, whereas fanfiction violence appears more intimate and embodied.
 
 ## 5. Findings from R: Word Clouds 
 
-Figure 3. Word clouds of normalized violence-term frequencies (per 10,000 words).
+<img src="{{ '/assets/images/RLAC A1 F3.png' }}">
 
-Figure 4. Comparative word clouds of violence-term frequencies across corpora (per 10,000 words).
-The word clouds in Figure 3 and Figure 4 further illustrate differences in emphasis. 
+*Figure 3. Word clouds of normalized violence-term frequencies (per 10,000 words).*
+
+<img src="{{ '/assets/images/RLAC A1 F4.png' }}">
+
+*Figure 4. Comparative word clouds of violence-term frequencies across corpora (per 10,000 words). The word clouds in Figure 3 and Figure 4 further illustrate differences in emphasis.* 
 
 In both Rowling novels, “Voldemort” and “death” dominate the visual field, reinforcing the centrality of war and existential stakes. The clustering suggests a narrative structured around a singular antagonist and ultimate confrontation. In contrast, the fanfiction word clouds distribute violent terms more widely across actions such as “hurt,” “attack,” “fight,” and “weapon.” This broader range implies a more continuous presence of action rather than violence reserved only for climactic events, making combat feel like part of the ongoing narrative texture.
 
@@ -55,7 +61,7 @@ In both Rowling novels, “Voldemort” and “death” dominate the visual fiel
 Voyant allowed us to visualize how violent words behave across the entire corpus and how they appear in actual sentences. Instead of focusing on normalized counts like in R, Voyant showed how violent language rises and falls throughout each text and how it is used in context.
 
 
-<iframe style='width: 1470px; height: 775px;' 
+<iframe style='width: 735px; height: 387px;' 
 src='https://voyant-tools.org/tool/Trends/?view=Trends&query=hate&query=kill&query=killing&query=blood&query=scream&query=shout&query=hurt&query=hurting&query=wound&query=shouted&query=shouting&query=curse&query=killed&query=attack&query=attacked&query=fought&query=cursed&query=fight&chartType=line&corpus=35f7c6a1aba63b64ab58e37088c3034d'>
 </iframe>
 <br>
