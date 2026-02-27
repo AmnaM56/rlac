@@ -2,13 +2,8 @@
 title: "Assignment 1"
 
 categories:
-  - assignments
-  
-tags:
   - Assignments
-  - Corpora
-  - R
-  - Voyant Tools
+  
 ---
 
 ## 1. Introduction: Violence in Harry Potter
@@ -30,14 +25,9 @@ depictions of war, allowing meaningful comparison with darker fanfiction narrati
 ## 3. Methodology: Building a Violence Dictionary in R
 
 
-<br>
-<div style="text-align: center;">
-  <img src="https://AmnaM56.github.io/rlac/assets/images/RLAC A1 F1.png" 
-       alt="Figure 1. Violence dictionary for analysis in R (124 terms)">
-  <br>
-  <em>Figure 1. Authority vs Agency Words (Total Counts)</em>
-</div>
-<br>
+<img src="{{ '/assets/images/RLAC A1 F1.png' }}"
+
+**Figure 1. Violence dictionary for analysis in R (124) terms**
 
 
 To systematically measure violent action language, we constructed a custom ‘violence dictionary’ in R, shown
