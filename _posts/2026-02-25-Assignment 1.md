@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1"
-date: 2026-02-26
+date: 2026-02-25
 categories: assignments
 ---
 Violence in Harry Potter — By Amna and Mhara

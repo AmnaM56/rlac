@@ -1,6 +1,6 @@
 ---
 title: "Assignment 2"
-date: 2026-02-27
+date: 2026-02-26
 categories: assignments
 ---
 
