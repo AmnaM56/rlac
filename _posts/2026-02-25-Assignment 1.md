@@ -4,12 +4,8 @@ date: 2026-02-25
 categories: assignments
 ---
 
-Violence in Harry Potter
+<h1 style="text-align: center; font-weight: bold;">Violence in Harry Potter — By Amna al Mheiri and Mhara Al Nuami</h1>
 
-Amna Al Mheiri and Mhara Al Nuaimi 
-Professor David Wrisley
-Assignment 1
-02/27/2026
 
 ## 1. Introduction
 
