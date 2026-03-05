@@ -3,7 +3,13 @@ title: "Assignment 1"
 date: 2026-02-25
 categories: assignments
 ---
-Violence in Harry Potter — By Amna and Mhara
+
+Violence in Harry Potter
+
+Amna Al Mheiri and Mhara Al Nuaimi 
+Professor David Wrisley
+Assignment 1
+02/27/2026
 
 ## 1. Introduction
 
