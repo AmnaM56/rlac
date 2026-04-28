@@ -6,7 +6,7 @@ categories: assignments
 
 <h1 style="text-align: center; font-weight: bold;">Violence in Harry Potter </h1>
 
-By: Amna Al Mheiri and Mhara Al Nuami
+## By: Amna Al Mheiri and Mhara Al Nuami
 
 ## 1. Introduction
 

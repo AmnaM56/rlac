@@ -7,7 +7,7 @@ categories: assignments
 <h1 style="text-align: center; font-weight: bold;">
 Computational Analysis of Science Fiction Authors: Stylo and TF-IDF</h1>
 
-By: Amna Al Mheiri and Mariam Al Junaibi
+## By: Amna Al Mheiri and Mariam Al Junaibi
 
 ## 1. Introduction
 
