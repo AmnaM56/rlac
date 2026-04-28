@@ -27,7 +27,7 @@ Finally, we have H.G. Wells, whose works date back to the late 1890s, making him
 The computational analysis method of Stylometry uses statistical techniques to determine who wrote a text by examining its linguistic traits; this involves looking at word frequency patterns, word arrangement, and other stylistic aspects. Unlike us humans, a computer looks at the “wordlist,” which is the distribution of common function words like “the” and “of,” and after analyzing these patterns, the R Markdown Notebook creates a visual representation of how similar these authors’ writing habits are, regardless of what their stories are about. In our analysis, we used the Stylometry with Science Fiction Authors from PG R Markdown Notebook on Posit Cloud and focused on visualizations showing 500 Most Frequent Words (MFW) in a Cluster Analysis, and 100-2000 MFW in a Bootstrap Consensus Tree Analysis. 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/A2CLUSTER.png' | relative_url }}" style="width: 80%;">
+  <img src="{{ '/assets/images/A2C.png' | relative_url }}" style="width: 70%;">
 </div>
 
 *Figure 1: 500 MFW Stylometry Cluster Analysis of Science Fiction Corpus.*
@@ -82,10 +82,12 @@ Ultimately, this project demonstrates that computational tools, like Stylo and T
 
 ## Works Cited:
 
+Hart, Michael. “Project Gutenberg.” Project Gutenberg, July 1971, www.gutenberg.org/. 
+
 Rockwell, Geoffrey, and Stéfan Sinclair. *“The Measured Words: How Computers Analyze Text.”* Hermeneutica: Computer-Assisted Interpretation in the Humanities, MIT Press, 2016, pp. 25-43.
 
 Underwood, Ted. *“The Risks of Distant Reading.”* Distant Horizons: Digital Evidence and Literary Change, U of Chicago P, 2019, pp. 144-74.
 
-## NOT READY FOR GRADING
+## READY FOR GRADING
 
 
