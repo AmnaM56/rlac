@@ -8,6 +8,8 @@ categories: assignments
 
 ## By: Amna Al Mheiri and Mariam Al Junaibi
 
+Hello??????
+
 ## 1. Introduction
 
 When we read science fiction novels, such as the ones by H.G. Wells or Leigh Brackett, we get immersed into the setting and atmosphere of the story, the personalities of the characters, and the sense of adventure. On the other hand, a computer does not see the “adventure,” but instead sees the statistical distribution of words like “the,” “and,” and “but.”
