@@ -8,7 +8,6 @@ categories: assignments
 
 ## By: Amna Al Mheiri and Mariam Al Junaibi
 
-Hello??????
 
 ## 1. Introduction
 
