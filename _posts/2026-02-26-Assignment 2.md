@@ -5,7 +5,8 @@ categories: assignments
 ---
 
 <h1 style="text-align: center; font-weight: bold;">
-Computational Analysis of Science Fiction Authors — Stylo and TF-IDF
+Computational Analysis of Science Fiction Authors: Stylo and TF-IDF
+By Amna Al Mheiri and Mariam Al Junaibi
 </h1>
 
 ## 1. Introduction

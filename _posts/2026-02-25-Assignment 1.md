@@ -4,7 +4,8 @@ date: 2026-02-25
 categories: assignments
 ---
 
-<h1 style="text-align: center; font-weight: bold;">Violence in Harry Potter — By Amna Al Mheiri and Mhara Al Nuami</h1>
+<h1 style="text-align: center; font-weight: bold;">Violence in Harry Potter
+ By Amna Al Mheiri and Mhara Al Nuami</h1>
 
 
 ## 1. Introduction
