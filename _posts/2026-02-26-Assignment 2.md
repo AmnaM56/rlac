@@ -4,7 +4,7 @@ date: 2026-02-26
 categories: assignments
 ---
 
-<h1 style="text-align: center; font-weight: bold;">Computational Analysis of Science FIction Authors: Stylo and TF-IDF </h1>
+<h1 style="text-align: center; font-weight: bold;">Computational Analysis of Science Fiction Authors: Stylo and TF-IDF </h1>
 
 ## By: Amna Al Mheiri and Mariam Al Junaibi
 
